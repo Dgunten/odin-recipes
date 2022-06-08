@@ -1,1 +1,1 @@
-# odin-recipes
+This current project is creating a small recipe website using what I've learned so far in the foundations section of this project. More info to come.
